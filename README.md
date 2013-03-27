@@ -1,7 +1,7 @@
 reply.js
 ========
 
-node.js' equivalent of [Haskell's "interact" function](http://hackage.haskell.org/packages/archive/base/latest/doc/html/Prelude.html#v:interact).
+node.js' version of [Haskell's "interact" function](http://hackage.haskell.org/packages/archive/base/latest/doc/html/Prelude.html#v:interact).
 
 It is useful to quickly write small JavaScript programs that process input from stdin and write output to stdout:
 
