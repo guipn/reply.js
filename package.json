@@ -4,10 +4,10 @@
   "description": "node.js' version of Haskell's Prelude.interact.",
   "version": "0.0.1",
   "repository": {
-    "url": ""
+    "url": "https://github.com/guipn/reply.js"
   },
   "main": "./reply",
   "engines": {
     "node": "*"
-  },
+  }
 }
